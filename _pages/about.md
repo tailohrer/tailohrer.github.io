@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Taylor Hall,</p>
+    <p>B17 Taylor Hall,</p>
     <p>427 Lorch Street,</p>
     <p>Madison, WI 53706</p>
 
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am an incoming PhD student at the [University of Wisconsin—Madison Department of Agricultural & Applied Economics](https://aae.wisc.edu/).
+Hi! I am an first year PhD student at the [University of Wisconsin—Madison Department of Agricultural & Applied Economics](https://aae.wisc.edu/).
 
 Land-use and resource extraction decisions often overlook the value of ecosystem services. Consequently, we continue to degrade our environment, possibly exacerbating the impacts of climate change and limiting our ability to adapt to it. Thus, in my research I want to explore the interactions between the biosphere and the world economy, both in terms of natural capital valuation and quantifying the effects of human behavior on ecosystem services. 
 
