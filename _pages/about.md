@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 Hi! I am a PhD student at the [University of Wisconsin—Madison Department of Agricultural & Applied Economics](https://aae.wisc.edu/).
 
-Land-use and resource extraction decisions often overlook the value of ecosystem services. Consequently, we continue to degrade our environment, possibly exacerbating the impacts of climate change and limiting our ability to adapt to it. Thus, in my research I want to explore the interactions between the biosphere and the world economy, both in terms of natural capital valuation and quantifying the effects of human behavior on ecosystem services. 
+My research uses quasi-experimental methods to explore the interactions between the biosphere and the world economy, both in the valuation of natural capital and quantifying the effects of human behavior on ecosystem services. 
 
 To date, most of my work concerns Marine Protected Area implementation and conservation policy. 
 
