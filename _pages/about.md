@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 Hi! I am a PhD student at the [University of Wisconsin—Madison Department of Agricultural & Applied Economics](https://aae.wisc.edu/).
 
-My research uses quasi-experimental methods to explore the interactions between the biosphere and the world economy, both in the valuation of natural capital and quantifying the effects of human behavior on ecosystem services. 
+My research uses quasi-experimental methods to explore the interactions between the biosphere and the world economy. I am interested in the valuation of natural capital and quantifying the effects of human behavior on ecosystem services. 
 
 To date, most of my work concerns Marine Protected Area implementation and conservation policy. 
 
