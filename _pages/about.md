@@ -24,7 +24,7 @@ My research uses quasi-experimental methods to explore the interactions between 
 
 To date, most of my work concerns Marine Protected Area implementation and conservation policy. 
 
-<iframe src="/assets/html/leaflet_map.html" width="100%" height="500px"></iframe>
+
 
 [//]: # "Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically."
 
